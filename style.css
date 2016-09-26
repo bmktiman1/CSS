@@ -306,22 +306,19 @@ color:#FFFFFF;
 font-size:30px;
 font-family: Gautami;
 text-indent:120px;
-background-image:url(https://1.bp.blogspot.com/-3U3lNOYn-ss/V9uMBPUV2FI/AAAAAAAAQMk/iQlZlVrWonkV-KC5-J-e8ysm0GC3I9WUgCLcB/s1600/banner3.png);
+background-image:url(https://1.bp.blogspot.com/-6yJZLTN9yu0/V-kQ4r4aLhI/AAAAAAAASpA/amY8sFxnjF4IAvBs34TxOQh5281VB1ujwCLcB/s1600/banner4.png);
 background-position: center;
 display:block;
-clip:rect('auto', 'auto', 'auto', 'auto')
-;
-
+clip:rect('auto', 'auto', 'auto', 'auto');
 position:relative;
 background-repeat:no-repeat;
-margin-left:-21px;
+margin-left:-12px;
 margin-right:0px;
 margin-bottom:0px;
-height:65px;
-width:665px;
+height:48px;
+width:651px;
 vertical-align:middle;
 -padding-top:20px;
-
 }
 .mahima{
 -border:1px solid red;
@@ -544,17 +541,18 @@ p.z1:first-line{color:white}
 
 
 .h46 {
-    background-image: url(https://3.bp.blogspot.com/-E8VjYmioYy0/V9uMF5NBJTI/AAAAAAAAQNc/Onqre9WB1ekl-OpolDgpWB4cXLR3nDYGACLcB/s1600/postedbybanner.png
-);
+    background-image: url(https://3.bp.blogspot.com/-CTn05bEHfF8/V-kQ4yxy97I/AAAAAAAASpE/z79k7CC2SDk7-t7zsyHLA6XsmS0IcptJgCLcB/s1600/postedbybanner1.png
+);	-border:1px solid red;
 	background-repeat: no-repeat;
 	background-position:left;
 	display: block;
 	clip: rect(auto,auto,auto,auto);
-	margin-left:-20px;
-	margin-right:-30px;
-	margin-bottom:-20px;
-	height:80px;
-	width:700px;
+	margin-left:-12px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-top:10px;
+	height:56px;
+	width:651px;
 	
 }
 .span25{
@@ -1609,7 +1607,9 @@ position:relative;
 padding:10px;
 display:block;
 margin-right:auto;
-margin-left:auto
+margin-left:auto;
+
+line-height:30px;
 
 }
 
